@@ -11,7 +11,7 @@ const about = {
   description:
     'Recent graduate with a Bachelor of Science Degree (B.Sc.) in Computers and Information looking to leverage my experience building responsive and scalable Web apps to solve interesting problems that delight end-users.',
   resume:
-    'https://drive.google.com/file/d/1crlgPvsbr57au3m9L-Q-NbEJqmLuWqjn/view?usp=sharing',
+    'https://drive.google.com/file/d/1ckjXFBI9bza6Lnx9jWiWckMny_fgctN0/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ismail-khaled-089444219/',
     github: 'https://github.com/ismail449',
